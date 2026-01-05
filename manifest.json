@@ -1,0 +1,21 @@
+{
+  "short_name": "La rayonne",
+  "name": "La rayonne",
+  "description": "La Rayonne offre films et séries pour tous (mangas, dessins animés, séries US, comédies). Ambiance fun, colorée, cosy et familiale. Découvrez histoires infinies, émotions garanties, aventures pour tous !",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#FCF8F4",
+  "theme_color": "#FF8C61",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-192x192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icons/icon-512x512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
